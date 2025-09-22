@@ -1,21 +1,19 @@
 # Deep Learning Course - Sharif University of Technology
 ### Instructor: Dr. Mahdieh Soleymani
 
-The assignment cover fundamental concepts of deep learning, from theoretical foundations to practical implementation using PyTorch. The theoretical portion of this homework covers fundamental mathematical concepts crucial to deep learning — matrix calculus, manual backpropagation, optimization fundamentals (line search, Adam), and basic hands-on exercises (implementing small networks / training loops).
-
-This repository contains my solutions and code for the first homework assignment of the Deep Learning course at Sharif University of Technology. [cite_start]This assignment focuses on foundational concepts, including mathematical derivations and practical implementations of neural networks in PyTorch[cite: 204].
+This repository cover fundamental concepts of deep learning, from theoretical foundations to practical implementation using PyTorch. This assignment focuses on foundational concepts, including mathematical derivations and practical implementations of neural networks in PyTorch[cite: 204].
 
 
 ---
 
 ### **Theoretical Section**
 
-The theoretical portion of this homework covers fundamental mathematical concepts crucial to deep learning. [cite_start]My handwritten answers are submitted in a single PDF file as required by the course[cite: 13, 14]. The topics covered are:
+The theoretical portion of this homework covers fundamental mathematical concepts crucial to deep learning. My handwritten answers are submitted in a single PDF file as required by the course. The topics covered are:
 
-* [cite_start]**Matrix Differentiation**: Derivations for various matrix expressions[cite: 18].
-* [cite_start]**Backpropagation**: Step-by-step calculation of gradients for a custom neural network architecture[cite: 46].
-* [cite_start]**Optimization**: Analysis of the Backtracking Line Search and Adam optimization algorithms[cite: 72, 99].
-* [cite_start]**Regularization**: Concepts related to Lipschitz continuity and the role of Weight Decay[cite: 175, 197].
+* **Matrix Differentiation**: Derivations for various matrix expressions[cite: 18].
+* **Backpropagation**: Step-by-step calculation of gradients for a custom neural network architecture[cite: 46].
+* **Optimization**: Analysis of the Backtracking Line Search and Adam optimization algorithms[cite: 72, 99].
+* **Regularization**: Concepts related to Lipschitz continuity and the role of Weight Decay[cite: 175, 197].
 
 ### **Practical Section**
 
